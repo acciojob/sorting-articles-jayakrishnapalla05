@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+ul li{
+  border-bottom:1px solid black;
+	padding-top:20px;
+	height:45px;
+	
+}
+#bands{
+	background-color:#fff;
+	width:300px;
+	border-left: 20px solid whitesmoke;
+	border-right: 20px solid whitesmoke;
+	position: absolute;
+    top:0;
+	left: 25%;
+	list-style-type:square;
+}
